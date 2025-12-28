@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.pem
+credentials.json
+
+# Misc files
+__pycache__/
+.vscode/
+*.log
+outputs/
+temp_prompts/
+*draft*
+
+# Data files
+*.pdf
+*.zip
+*.csv
